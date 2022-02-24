@@ -10,4 +10,3 @@ while aux < num:
         if aux == 0:
             print(aux)
         else:
-            print(aux)
